@@ -123,7 +123,7 @@ Please go through these slides before you participate in in-class training
 
 ## Additional information to get ready for the hack
 
-Purdue Gold IronHacks Fall 2017 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide (see above). Below, we provide you with information about open data sets, and also an example submission of a mashup (similar to one that you may submit in the first phase of the hack). For your reference, here is a definition of a **[mashup](https://techterms.com/definition/mashup)**
+Purdue Gold IronHacks Spring 2018 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide (see above). Below, we provide you with information about open data sets, and also an example submission of a mashup (similar to one that you may submit in the first phase of the hack). For your reference, here is a definition of a **[mashup](https://techterms.com/definition/mashup)**
 
 ### 1. Datasets
 
