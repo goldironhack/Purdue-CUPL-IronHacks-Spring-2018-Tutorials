@@ -142,7 +142,7 @@ You can read more about these datasets [here](Datasets.md)
 
 The list of libraries which can be used by participants during the hack is listed below.
 
-- **[list](https://docs.google.com/document/d/1ej4acvHUeBYsyuWEJK_xgEYpqrxTo5Oa4vqmhib_GeM/edit?usp=sharing)** -- List of 29 libraries to be used. 
+- **[list](https://docs.google.com/document/d/1ej4acvHUeBYsyuWEJK_xgEYpqrxTo5Oa4vqmhib_GeM/edit?usp=sharing)** -- List of libraries to be used. 
 
 ### 3. Readme File
 Please make sure that you also include very descriptive readme file when you commit your application.
