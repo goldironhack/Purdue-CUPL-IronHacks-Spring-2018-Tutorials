@@ -1,4 +1,6 @@
-# Purdue Gold IronHacks Fall 2017 Tutorials    
+# Purdue Gold IronHacks Fall 2017 Tutorials  
+
+欢迎来到普渡网页制作竞赛。我们在这里向你介绍在竞赛中会使用的工具。我们希望您可以在十月三十日的竞赛之前完成这些参考资料。
 
 Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on October 30th, 2017.
 
