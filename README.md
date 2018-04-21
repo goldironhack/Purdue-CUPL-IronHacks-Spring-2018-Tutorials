@@ -1,11 +1,10 @@
 # Purdue IronHacks Spring 2018 Tutorials  
 
-欢迎来到普渡网页制作竞赛。我们在这里向你介绍在竞赛中会使用的工具。我们希望您可以在十月三十日的竞赛之前完成这些参考资料。
+欢迎来到普渡网页制作竞赛。我们在这里向你介绍在竞赛中会使用的工具。我们希望您可以在竞赛之前完成这些参考资料。
 
-Welcome to Purdue Gold IronHacks Spring 2018! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on October 30th, 2017.
+Welcome to Purdue Gold IronHacks Spring 2018! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts.
 
 ## Session 1
-<i><small>(please complete between October 11th to October 17th)</small></i><br>
 **[User Manual Social Coding Platform](https://drive.google.com/open?id=0B301Ac3Lm0btSVdrc3hfd0I4b0k)** -- Introduction to IronHacks <br>
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiUk1kQnl1ZHFXYVU)** -- Slides for Session 1<br>
 
@@ -49,7 +48,6 @@ You are required to submit code to our system using our social coding platform <
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git (not needed for contest but if you are curious)
 -->
 ## Session 2
-<small><i>(please complete between October 18th to October 24th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMidnAwcW1ESFNRaGc)** -- Slides for Session 2
 
@@ -76,7 +74,6 @@ You are required to submit code to our system using our social coding platform <
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## Session 3
-<small><i>(please complete between October 25th to October 31th)</i></small>
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiTmZLNHlTRjNiMmc)** -- Slides for Session 3
 
 ### Tutorials for d3
@@ -108,7 +105,6 @@ Please follow along these videos to complete the sample projects on d3
 **[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
 
 ## Session 4
-<small><i>(please complete between Nov 1st to Nov 8th)</i></small>
 ### Presentations to learn about (1) design elements, (2) design principles, (3) usability heuristics
 **[design elements](https://docs.google.com/presentation/d/1jru6h0QqLHVUfzF1PVoxA3XYpa2m7yyoNfrUF59ppU4/edit?ts=59eb947f#slide=id.p3)** --Learn about design elements<br>
 **[design principles](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)** -- Learn about design principles <br>
@@ -125,7 +121,7 @@ Please go through these slides before you participate in in-class training
 **[Video 2 on Usability](https://www.dropbox.com/s/foiiz5n4mwm6cp7/Tutorial%202of3%20on%20Design%20Principles.mov?dl=0)** --Demo video 2 on Usbility<br>
 **[Video 3 on Usability](https://www.dropbox.com/s/n2z3qsi5bk494qt/Tutorial%203of3%20on%20Usability%20Heuristics.mov?dl=0)** --Demo video 3 on Usbility<br>
 
-## Additional information to get ready for the hack that starts on October 30th, 2017
+## Additional information to get ready for the hack
 
 Purdue Gold IronHacks Fall 2017 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide (see above). Below, we provide you with information about open data sets, and also an example submission of a mashup (similar to one that you may submit in the first phase of the hack). For your reference, here is a definition of a **[mashup](https://techterms.com/definition/mashup)**
 
