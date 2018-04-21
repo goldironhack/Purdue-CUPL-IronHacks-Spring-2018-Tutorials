@@ -1,4 +1,4 @@
-# Purdue Gold IronHacks Fall 2017 Tutorials  
+# Purdue IronHacks Spring 2018 Tutorials  
 
 欢迎来到普渡网页制作竞赛。我们在这里向你介绍在竞赛中会使用的工具。我们希望您可以在十月三十日的竞赛之前完成这些参考资料。
 
