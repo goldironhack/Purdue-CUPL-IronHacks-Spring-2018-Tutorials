@@ -6,7 +6,6 @@ Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to var
 
 ## Session 1
 
-**[User Manual Social Coding Platform](https://drive.google.com/open?id=0B301Ac3Lm0btSVdrc3hfd0I4b0k)** -- Introduction to IronHacks <br>
 =======
 [Complete session including quiz due April 24th]  
 **[Intro video: How to use our social coding platform]()TO BE ADDED** -- Introduction to IronHacks <br>
@@ -117,16 +116,6 @@ Please follow along these videos to complete the sample projects on d3
 **[design principles](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)** -- Learn about design principles <br>
 **[usability heuristics](https://docs.google.com/presentation/d/1MfxG37OUvxEA9C9no1zpE9ZtjUOJqHKJeRptnAiF_Z8/edit?ts=59eb94ea#slide=id.p3)** -- Learn about usability heuristics<br>
 
-Please go through these slides before you participate in in-class training
-
-**[quiz 1 design elements](https://purdue.qualtrics.com/SE/?SID=SV_esbe7BxRTJdCIM5&redirect_to=http%3A%2F%2Fwww.ironhacks.com%2Fquizzes%3FmarkComplete%3Ddesign_elements&user_email=opendigital%40purdue.edu&user_id=59d12a7001d6c800124fadd1&Q_JFE=0)**<br>
-**[quiz 2 design principles](https://purdue.qualtrics.com/SE/?SID=SV_6WDUSwWGkM8udo1&redirect_to=http%3A%2F%2Fwww.ironhacks.com%2Fquizzes%3FmarkComplete%3Ddesign_principles&user_email=opendigital%40purdue.edu&user_id=59d12a7001d6c800124fadd1&Q_JFE=0)**<br>
-**[quiz 3 usability heuristics](https://purdue.qualtrics.com/SE/?SID=SV_eESwNO3Kxe1DJiJ&redirect_to=http%3A%2F%2Fwww.ironhacks.com%2Fquizzes%3FmarkComplete%3Dusability_heuristics&user_email=opendigital%40purdue.edu&user_id=59d12a7001d6c800124fadd1&Q_JFE=0)**<br>
-
-### Videos on Usability
-**[Video 1 on Usability](https://www.dropbox.com/s/skabjjtp1k5bcbp/Tutorial%201of3%20on%20Design%20Elements.mov?dl=0)** -- Demo video 1 on Usbility<br>
-**[Video 2 on Usability](https://www.dropbox.com/s/foiiz5n4mwm6cp7/Tutorial%202of3%20on%20Design%20Principles.mov?dl=0)** --Demo video 2 on Usbility<br>
-**[Video 3 on Usability](https://www.dropbox.com/s/n2z3qsi5bk494qt/Tutorial%203of3%20on%20Usability%20Heuristics.mov?dl=0)** --Demo video 3 on Usbility<br>
 
 ## Additional information about the hack
 
