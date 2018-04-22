@@ -10,11 +10,11 @@ Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to var
 =======
 [Complete session including quiz due April 24th]  
 **[Intro video: How to use our social coding platform]()TO BE ADDED** -- Introduction to IronHacks <br>
-**[Presentation](https://docs.google.com/presentation/d/1bez1PPJie2XoEJ2rYUKJa_YPY2H58vgdkuxpbbHVCaM/edit?usp=sharing)** -- Slides for Session 1<br>
+**[Presentation](https://docs.google.com/presentation/d/1U9xzlVhhI98_kWk6L1_jLjed64Xn3B1EVlWtQryMQI8/edit?usp=sharing)** -- Slides for Session 1<br>
 
 ### An official tutorial for HTML
 **[Tutorial](http://www.w3schools.com/html)** -- w3 school tutorial for html<br>
-**[Presentation](https://docs.google.com/presentation/d/1dUbMgQSFGDgwvqudM5dixIfOGdJRdhtS_bH6SPBBIbc/edit?usp=sharing)** -- Slides for Session 1<br>
+**[Presentation](https://docs.google.com/presentation/d/1drcxv_ph14yuKpuIqeby1AvHyqqiNtkVaiDYYk3ZSWI/edit?usp=sharing)** -- Slides for Session 1<br>
 
 ### Basic HTML video and sample code 1 
 **[HTML Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btUzQxcUJJVURxeVk)** -- html video 1 on social coding platform <br>
@@ -80,7 +80,7 @@ You are required to submit code to our system using our social coding platform <
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## Session 3
-**[Presentation](https://docs.google.com/presentation/d/1OrvidiUiYrKm9DbUXSyE6RdLHWwSdQ6lPxvvIp9Sqy8/edit?usp=sharing)** -- Slides for Session 3
+**[Presentation](https://docs.google.com/presentation/d/1mH8r_okijC-Q40udVT49K5CLh3p25UjGXQQeZY5RkiY/edit?usp=sharing)** -- Slides for Session 3
 
 ### Tutorials for d3
 **[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Official Tutorial for d3.js library<br>
@@ -102,6 +102,7 @@ You are required to submit code to our system using our social coding platform <
 Please follow along these videos to complete the sample projects on d3
 
 **[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take this quiz (sign-in to your contest)<br>
+**[Presentation](https://docs.google.com/presentation/d/1akxIVqsUClwHgyep2DOViTsabpScGoAbmGF9U7bnPDM/edit?usp=sharing)** -- Slides for d3
 
 ### Google Maps Javascript API
 ### An official tutorial and project for Google Map API
