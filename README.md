@@ -63,7 +63,7 @@ You are required to submit code to our system using our social coding platform <
 **[Javascript Code 1](https://drive.google.com/drive/folders/0B301Ac3Lm0btZUFyRTI4cHF5YjQ)** -- javascript code 1 on social coding platform<br>
 **[Javascript Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- javascript video 2 on social coding platform <br>
 **[Javascript Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- javascript code 2 on social coding platform<br>
-**[Javascript In Class Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btMENrZHJ2NGFGUFU?usp=sharing)** -- javascript in class tutorial<br>
+**[Javascript  Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btMENrZHJ2NGFGUFU?usp=sharing)** -- javascript  tutorial<br>
 ### An official tutorial for jQuery
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** --w3 school tutorial for jQuery
 
@@ -92,8 +92,8 @@ You are required to submit code to our system using our social coding platform <
 **[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Official Tutorial for d3.js library<br>
 **[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- Our own d3 video 2, using social coding platform <br>
 **[D3 Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- Our own d3 code 2 on social coding platform<br>
-**[D3 In Class Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btWUN6RkQzbmI4bUE?usp=sharing)** -- Our own d3 in class tutorial helpd on October 25&26th<br>
-**[D3 In Class Sample Codes](https://drive.google.com/drive/folders/0B301Ac3Lm0btai1wUjVXWkxqbTQ?usp=sharing)** -- d3 in class sample codes for tutorial in class on October 25th26th<br>
+**[D3  Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btWUN6RkQzbmI4bUE?usp=sharing)** -- Our own d3  tutorial helpd on October 25&26th<br>
+**[D3  Sample Codes](https://drive.google.com/drive/folders/0B301Ac3Lm0btai1wUjVXWkxqbTQ?usp=sharing)** -- d3  sample codes for tutorial  on October 25th26th<br>
 ### Official Website of d3 library
 **[D3.js](http://d3js.org)** --Official site for d3.js library <br><br>
 
