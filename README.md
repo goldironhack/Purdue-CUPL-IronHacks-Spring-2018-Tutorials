@@ -126,8 +126,4 @@ Please go through these slides before you participate in in-class training
 
 We will announce the challenge question on May 7th! Until then watch up on our forum in http:// If you have questions send us the questions to opendigital and we will responde as soon as possible.
 
-### 3. Readme File
-Please make sure that you also include very descriptive readme file when you commit your application.
-- **[Example README](readme_template)**
-
 <i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
