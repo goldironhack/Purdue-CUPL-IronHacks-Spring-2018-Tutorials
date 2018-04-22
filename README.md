@@ -9,7 +9,8 @@ Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to var
 ## Session 1
 
 =======
-[Complete session including quiz due April 24th]  
+[截止日期是四月二十四号]  
+[Complete session including quiz due April 24th]  
 **[Intro video: How to use our social coding platform]()TO BE ADDED** -- Introduction to IronHacks <br>
 **[Presentation](https://docs.google.com/presentation/d/1U9xzlVhhI98_kWk6L1_jLjed64Xn3B1EVlWtQryMQI8/edit?usp=sharing)** -- Slides for Session 1<br>
 
@@ -54,8 +55,11 @@ You are required to submit code to our system using our social coding platform <
 **[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage (not needed for contest but if you are curious)<br>
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git (not needed for contest but if you are curious)
 -->
+
 ## 指南二
 ## Session 2
+
+[Complete session including quiz due April 24th] 
 
 **[Presentation](https://docs.google.com/presentation/d/16y4d7Hdn2eIhxuyaBQNk9a3T-O3rtrMS4WzOALwyfJA/edit?usp=sharing)** -- Slides for Session 2
 
