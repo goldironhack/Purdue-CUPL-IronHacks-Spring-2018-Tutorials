@@ -10,7 +10,7 @@ Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to var
 
 [截止日期是四月二十四号] <br> 
 [Complete session including quiz due April 24th]  <br> 
-**[Intro video: How to use our social coding platform](https://drive.google.com/file/d/1XPTXg58IFoyARhaOH5qwRL_I19xMgdNQ/view?usp=sharing) Chinese Version ** -- Introduction to IronHacks <br>
+**[Intro video: How to use our social coding platform](https://drive.google.com/file/d/1XPTXg58IFoyARhaOH5qwRL_I19xMgdNQ/view?usp=sharing)** Chinese Version -- Introduction to IronHacks <br>
 **[Presentation](https://docs.google.com/presentation/d/1U9xzlVhhI98_kWk6L1_jLjed64Xn3B1EVlWtQryMQI8/edit?usp=sharing)** -- Slides for Session 1<br>
 
 ### An official tutorial for HTML
