@@ -81,6 +81,13 @@ You are required to submit code to our system using our social coding platform <
 ## Session 3
 **[Presentation](https://docs.google.com/presentation/d/1akxIVqsUClwHgyep2DOViTsabpScGoAbmGF9U7bnPDM/edit?usp=sharing)** -- Slides for Session 3
 
+### Google Maps Javascript API
+### An official tutorial and project for Google Map API
+**[Official Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** <br>
+**[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** <br>
+### Sample tutorial for Google Map API
+**[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
+
 ### Tutorials for d3
 **[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Official Tutorial for d3.js library<br>
 **[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- Our own d3 video 2, using social coding platform <br>
@@ -102,20 +109,6 @@ Please follow along these videos to complete the sample projects on d3
 
 **[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 **[Presentation](https://docs.google.com/presentation/d/1akxIVqsUClwHgyep2DOViTsabpScGoAbmGF9U7bnPDM/edit?usp=sharing)** -- Slides for d3
-
-### Google Maps Javascript API
-### An official tutorial and project for Google Map API
-**[Official Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** <br>
-**[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** <br>
-### Sample tutorial for Google Map API
-**[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
-
-## Session 4
-### Presentations to learn about (1) design elements, (2) design principles, (3) usability heuristics
-**[design elements](https://docs.google.com/presentation/d/1jru6h0QqLHVUfzF1PVoxA3XYpa2m7yyoNfrUF59ppU4/edit?ts=59eb947f#slide=id.p3)** --Learn about design elements<br>
-**[design principles](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)** -- Learn about design principles <br>
-**[usability heuristics](https://docs.google.com/presentation/d/1MfxG37OUvxEA9C9no1zpE9ZtjUOJqHKJeRptnAiF_Z8/edit?ts=59eb94ea#slide=id.p3)** -- Learn about usability heuristics<br>
-
 
 ## Additional information about the hack
 
