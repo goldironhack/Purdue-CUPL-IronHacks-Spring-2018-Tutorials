@@ -5,7 +5,8 @@
 Welcome to Purdue Gold IronHacks Spring 2018! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts.
 
 ## Session 1
-**[User Manual Social Coding Platform](https://drive.google.com/open?id=0B301Ac3Lm0btSVdrc3hfd0I4b0k)** -- Introduction to IronHacks <br>
+[Complete session including quiz due April 24th]  
+**[Intro video: How to use our social coding platform]()TO BE ADDED** -- Introduction to IronHacks <br>
 **[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiUk1kQnl1ZHFXYVU)** -- Slides for Session 1<br>
 
 ### An official tutorial for HTML
@@ -121,23 +122,9 @@ Please go through these slides before you participate in in-class training
 **[Video 2 on Usability](https://www.dropbox.com/s/foiiz5n4mwm6cp7/Tutorial%202of3%20on%20Design%20Principles.mov?dl=0)** --Demo video 2 on Usbility<br>
 **[Video 3 on Usability](https://www.dropbox.com/s/n2z3qsi5bk494qt/Tutorial%203of3%20on%20Usability%20Heuristics.mov?dl=0)** --Demo video 3 on Usbility<br>
 
-## Additional information to get ready for the hack
+## Additional information about the hack
 
-Purdue Gold IronHacks Spring 2018 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide (see above). Below, we provide you with information about open data sets, and also an example submission of a mashup (similar to one that you may submit in the first phase of the hack). For your reference, here is a definition of a **[mashup](https://techterms.com/definition/mashup)**
-
-### 1. Datasets
-
-The IRONHACKS rules require that you use open data sets in your project.
-
-Available datasets to choose from:
-- **[Datasets](https://docs.google.com/spreadsheets/d/103fa4Yz7Tai-4XhH_rJyFlBk_0JpAW8EjEFP8-io-T0/edit?usp=sharing)** -- datasets <br>
-
-
-### 2. Libraries List
-
-The list of libraries which can be used by participants during the hack is listed below.
-
-- **[list](https://docs.google.com/document/d/1_853dhtdqpcRimu7ld0lLKgCohVQIKrfLPoCdrMfI6Y/edit?usp=sharing)** -- List of libraries to be used. 
+We will announce the challenge question on May 7th! Until then watch up on our forum in http:// If you have questions send us the questions to opendigital and we will responde as soon as possible.
 
 ### 3. Readme File
 Please make sure that you also include very descriptive readme file when you commit your application.
