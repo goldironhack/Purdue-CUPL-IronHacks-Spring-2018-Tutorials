@@ -100,7 +100,8 @@ You are required to submit code to our system using our social coding platform <
 **[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- Our own d3 video 2, using social coding platform <br>
 **[D3 Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- Our own d3 code 2 on social coding platform<br>
 **[D3  Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btWUN6RkQzbmI4bUE?usp=sharing)** -- Our own d3  tutorial helpd on October 25&26th<br>
-**[D3  Sample Codes](https://drive.google.com/drive/folders/0B301Ac3Lm0btai1wUjVXWkxqbTQ?usp=sharing)** -- d3  sample codes for tutorial  on October 25th26th<br>
+**[D3  Sample Codes](https://drive.google.com/drive/folders/0B301Ac3Lm0btai1wUjVXWkxqbTQ?usp=sharing)** -- d3  sample codes<br>
+
 ### Official Website of d3 library
 **[D3.js](http://d3js.org)** --Official site for d3.js library <br><br>
 
