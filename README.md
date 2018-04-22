@@ -7,10 +7,9 @@ Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to var
 
 ## 指南 - 
 ## Session 1
-
-=======
-[截止日期是四月二十四号]  
-[Complete session including quiz due April 24th]  
+================
+[截止日期是四月二十四号] <br> 
+[Complete session including quiz due April 24th]  <br> 
 **[Intro video: How to use our social coding platform]()TO BE ADDED** -- Introduction to IronHacks <br>
 **[Presentation](https://docs.google.com/presentation/d/1U9xzlVhhI98_kWk6L1_jLjed64Xn3B1EVlWtQryMQI8/edit?usp=sharing)** -- Slides for Session 1<br>
 
