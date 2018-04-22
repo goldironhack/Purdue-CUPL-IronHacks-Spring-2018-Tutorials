@@ -97,9 +97,9 @@ You are required to submit code to our system using our social coding platform <
 
 ### Tutorials for d3
 **[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Official Tutorial for d3.js library<br>
-**[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- Our own d3 video 2, using social coding platform <br>
-**[D3 Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- Our own d3 code 2 on social coding platform<br>
-**[D3  Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btWUN6RkQzbmI4bUE?usp=sharing)** -- Our own d3  tutorial helpd on October 25&26th<br>
+**[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- d3 video 2, using social coding platform <br>
+**[D3 Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- d3 code 2 on social coding platform<br>
+**[D3  Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btWUN6RkQzbmI4bUE?usp=sharing)** -- d3  tutorial<br>
 **[D3  Sample Codes](https://drive.google.com/drive/folders/0B301Ac3Lm0btai1wUjVXWkxqbTQ?usp=sharing)** -- d3  sample codes<br>
 
 ### Official Website of d3 library
