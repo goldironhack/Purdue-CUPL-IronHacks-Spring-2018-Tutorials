@@ -6,10 +6,12 @@ Welcome to Purdue Gold IronHacks Spring 2018! These pages aim to introduce you t
 
 ## Session 1
 **[User Manual Social Coding Platform](https://drive.google.com/open?id=0B301Ac3Lm0btSVdrc3hfd0I4b0k)** -- Introduction to IronHacks <br>
-**[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiUk1kQnl1ZHFXYVU)** -- Slides for Session 1<br>
+**[Presentation](https://docs.google.com/presentation/d/1bez1PPJie2XoEJ2rYUKJa_YPY2H58vgdkuxpbbHVCaM/edit?usp=sharing)** -- Slides for Session 1<br>
 
 ### An official tutorial for HTML
 **[Tutorial](http://www.w3schools.com/html)** -- w3 school tutorial for html<br>
+**[Presentation](https://docs.google.com/presentation/d/1dUbMgQSFGDgwvqudM5dixIfOGdJRdhtS_bH6SPBBIbc/edit?usp=sharing)** -- Slides for Session 1<br>
+
 ### Basic HTML video and sample code 1 
 **[HTML Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btUzQxcUJJVURxeVk)** -- html video 1 on social coding platform <br>
 **[HTML Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btT1ZQYnhTeWxobjA)** -- html code 1 on social coding platform<br>
@@ -49,7 +51,7 @@ You are required to submit code to our system using our social coding platform <
 -->
 ## Session 2
 
-**[Presentation](https://drive.google.com/open?id=0B9lludeBBlMidnAwcW1ESFNRaGc)** -- Slides for Session 2
+**[Presentation](https://docs.google.com/presentation/d/16y4d7Hdn2eIhxuyaBQNk9a3T-O3rtrMS4WzOALwyfJA/edit?usp=sharing)** -- Slides for Session 2
 
 ### Javascript and jQuery
 ### An official tutorial for Javascript
@@ -74,7 +76,7 @@ You are required to submit code to our system using our social coding platform <
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## Session 3
-**[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiTmZLNHlTRjNiMmc)** -- Slides for Session 3
+**[Presentation](https://docs.google.com/presentation/d/1OrvidiUiYrKm9DbUXSyE6RdLHWwSdQ6lPxvvIp9Sqy8/edit?usp=sharing)** -- Slides for Session 3
 
 ### Tutorials for d3
 **[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Official Tutorial for d3.js library<br>
