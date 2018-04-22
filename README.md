@@ -1,9 +1,11 @@
+# 普渡大学春季网页设计比赛指南
 # Purdue IronHacks Spring 2018 Tutorials  
 
 欢迎来到普渡网页制作竞赛。我们在这里向你介绍在竞赛中会使用的工具。我们希望您可以在竞赛之前完成这些参考资料。
 
 Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts.
 
+## 指南 - 
 ## Session 1
 
 =======
@@ -52,6 +54,7 @@ You are required to submit code to our system using our social coding platform <
 **[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage (not needed for contest but if you are curious)<br>
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git (not needed for contest but if you are curious)
 -->
+## 指南二
 ## Session 2
 
 **[Presentation](https://docs.google.com/presentation/d/16y4d7Hdn2eIhxuyaBQNk9a3T-O3rtrMS4WzOALwyfJA/edit?usp=sharing)** -- Slides for Session 2
@@ -78,6 +81,7 @@ You are required to submit code to our system using our social coding platform <
 
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
+## 指南三
 ## Session 3
 **[Presentation](https://docs.google.com/presentation/d/1akxIVqsUClwHgyep2DOViTsabpScGoAbmGF9U7bnPDM/edit?usp=sharing)** -- Slides for Session 3
 
@@ -110,6 +114,7 @@ Please follow along these videos to complete the sample projects on d3
 **[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 **[Presentation](https://docs.google.com/presentation/d/1akxIVqsUClwHgyep2DOViTsabpScGoAbmGF9U7bnPDM/edit?usp=sharing)** -- Slides for d3
 
+## 其他事项
 ## Additional information about the hack
 
 We will announce the challenge question on May 7th! Until then watch up on our forum in http:// If you have questions send us the questions to opendigital and we will responde as soon as possible.
