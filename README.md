@@ -130,19 +130,14 @@ Purdue Gold IronHacks Spring 2018 will involve location data, so it is recommend
 The IRONHACKS rules require that you use open data sets in your project.
 
 Available datasets to choose from:
-- **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)** -- the mandatory dataset <br>
+- **[Datasets](https://docs.google.com/spreadsheets/d/103fa4Yz7Tai-4XhH_rJyFlBk_0JpAW8EjEFP8-io-T0/edit?usp=sharing)** -- datasets <br>
 
-If you want to learn more about the sources of this data:
-- **[Data.gov](https://www.data.gov)** -- Official site of the US Government
-- **[Open Indy Data Portal](http://data.indy.gov/)** -- Official site of the State of Indiana for open data
-
-You can read more about these datasets [here](Datasets.md)
 
 ### 2. Libraries List
 
 The list of libraries which can be used by participants during the hack is listed below.
 
-- **[list](https://docs.google.com/document/d/1ej4acvHUeBYsyuWEJK_xgEYpqrxTo5Oa4vqmhib_GeM/edit?usp=sharing)** -- List of libraries to be used. 
+- **[list](https://docs.google.com/document/d/1_853dhtdqpcRimu7ld0lLKgCohVQIKrfLPoCdrMfI6Y/edit?usp=sharing)** -- List of libraries to be used. 
 
 ### 3. Readme File
 Please make sure that you also include very descriptive readme file when you commit your application.
