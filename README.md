@@ -80,7 +80,7 @@ You are required to submit code to our system using our social coding platform <
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## Session 3
-**[Presentation](https://docs.google.com/presentation/d/1mH8r_okijC-Q40udVT49K5CLh3p25UjGXQQeZY5RkiY/edit?usp=sharing)** -- Slides for Session 3
+**[Presentation](https://docs.google.com/presentation/d/1akxIVqsUClwHgyep2DOViTsabpScGoAbmGF9U7bnPDM/edit?usp=sharing)** -- Slides for Session 3
 
 ### Tutorials for d3
 **[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Official Tutorial for d3.js library<br>
