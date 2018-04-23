@@ -126,6 +126,6 @@ Please follow along these videos to complete the sample projects on d3
 ## 有关IronHacks的其他信息
 ## Additional information about the hack
 
-We will announce the challenge question on May 7th! Until then watch up on our forum in http:// If you have questions send us the questions to opendigital and we will responde as soon as possible.
+We will announce the challenge question on May 7th! Until then watch up on our forum in http://www.ironhacks.com/ If you have questions send us the questions to opendigital and we will responde as soon as possible.
 
 <i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
