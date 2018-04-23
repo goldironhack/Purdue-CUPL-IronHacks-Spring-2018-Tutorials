@@ -45,8 +45,9 @@ Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to var
 Please follow along these videos to complete the sample projects on HTML & CSS
 
 
-### **[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS”: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
-<!-- 
+## **[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: 
+Quiz “HTML & CSS”: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
+ 
 ### Social Coding Platform
 
 You are required to submit code to our system using our social coding platform <br>
@@ -54,7 +55,7 @@ You are required to submit code to our system using our social coding platform <
 
 **[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage (not needed for contest but if you are curious)<br>
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git (not needed for contest but if you are curious)
--->
+
 
 ## 指南二
 ## Session 2
@@ -83,7 +84,8 @@ You are required to submit code to our system using our social coding platform <
 **[jQuery 2](https://www.youtube.com/watch?v=0mtZJTIq1LU&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=5)** -- Link to jQuery video 2<br>
 **[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** -- Link to jQuery video 3 <br>
 
-## **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery”: We strongly recommend that you take this quiz (sign-in to your contest)<br>
+## **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**:
+Quiz “Javascript & jQuery”: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## 指南三
 ## Session 3
@@ -111,7 +113,9 @@ You are required to submit code to our system using our social coding platform <
 
 Please follow along these videos to complete the sample projects on d3
 
-**[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3”: We strongly recommend that you take this quiz (sign-in to your contest)<br>
+## **[Quiz - d3](http://www.ironhacks.com/quizzes)**:
+Quiz “d3”: We strongly recommend that you take this quiz (sign-in to your contest)
+<br>
 **[Presentation](https://docs.google.com/presentation/d/1akxIVqsUClwHgyep2DOViTsabpScGoAbmGF9U7bnPDM/edit?usp=sharing)** -- Slides for d3
 
 ### Additional Material
