@@ -45,7 +45,7 @@ Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to var
 Please follow along these videos to complete the sample projects on HTML & CSS
 
 
-### **[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” for week 1: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
+### **[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS”: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
 <!-- 
 ### Social Coding Platform
 
@@ -83,7 +83,7 @@ You are required to submit code to our system using our social coding platform <
 **[jQuery 2](https://www.youtube.com/watch?v=0mtZJTIq1LU&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=5)** -- Link to jQuery video 2<br>
 **[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** -- Link to jQuery video 3 <br>
 
-## **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
+## **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery”: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## 指南三
 ## Session 3
