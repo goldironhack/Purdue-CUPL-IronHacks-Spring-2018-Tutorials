@@ -16,7 +16,8 @@ You should include at least 3 keywords for your project to identify the features
 
  * Use a paragraph to introduce your project.
  * Use a paragraph to explain you how tackle the techinical requirements.   
- * Use a paragraph to explain you how tackle the analytical requirements.  
+ * Use a paragraph to explain you how tackle the analytical requirements.
+ * Use a paragraph to explain you how tackle the visual  requirements.  
  Fill in the structued description:  
  * Map Visualization:
 		1. [Y/N] Basic Map with specific location (your map is located in a meaningful place).  
