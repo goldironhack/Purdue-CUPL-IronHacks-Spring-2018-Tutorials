@@ -11,6 +11,7 @@ Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to var
 [截止日期是四月二十四号] <br> 
 [Complete session including quiz due April 24th]  <br> 
 **[Intro video: How to use our social coding platform](https://drive.google.com/file/d/1XPTXg58IFoyARhaOH5qwRL_I19xMgdNQ/view?usp=sharing)** Chinese Version -- Introduction to IronHacks <br>
+
 **[Presentation](https://docs.google.com/presentation/d/1U9xzlVhhI98_kWk6L1_jLjed64Xn3B1EVlWtQryMQI8/edit?usp=sharing)** -- Slides for Session 1<br>
 
 ### An official tutorial for HTML
@@ -44,7 +45,7 @@ Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to var
 Please follow along these videos to complete the sample projects on HTML & CSS
 
 
-**[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” for week 1: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
+### **[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” for week 1: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
 <!-- 
 ### Social Coding Platform
 
@@ -58,7 +59,7 @@ You are required to submit code to our system using our social coding platform <
 ## 指南二
 ## Session 2
 
-[Complete session including quiz due April 24th] 
+[Complete session including quiz due April 26th] 
 
 **[Presentation](https://docs.google.com/presentation/d/16y4d7Hdn2eIhxuyaBQNk9a3T-O3rtrMS4WzOALwyfJA/edit?usp=sharing)** -- Slides for Session 2
 
@@ -82,18 +83,14 @@ You are required to submit code to our system using our social coding platform <
 **[jQuery 2](https://www.youtube.com/watch?v=0mtZJTIq1LU&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=5)** -- Link to jQuery video 2<br>
 **[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** -- Link to jQuery video 3 <br>
 
-**[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
+## **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## 指南三
 ## Session 3
-**[Presentation](https://docs.google.com/presentation/d/1akxIVqsUClwHgyep2DOViTsabpScGoAbmGF9U7bnPDM/edit?usp=sharing)** -- Slides for Session 3
 
-### Google Maps Javascript API
-### An official tutorial and project for Google Map API
-**[Official Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** <br>
-**[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** <br>
-### Sample tutorial for Google Map API
-**[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
+[Complete session including quiz due May 1st] 
+
+**[Presentation](https://docs.google.com/presentation/d/1akxIVqsUClwHgyep2DOViTsabpScGoAbmGF9U7bnPDM/edit?usp=sharing)** -- Slides for Session 3
 
 ### Tutorials for d3
 **[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Official Tutorial for d3.js library<br>
@@ -112,13 +109,21 @@ You are required to submit code to our system using our social coding platform <
 **[d3.js 3](https://drive.google.com/open?id=0B-DRvJb6N3Iic25BWkJ5eXpNb1E)** -- Code for the project above<br>
 **[d3.js 4](https://drive.google.com/open?id=0B-DRvJb6N3IiVno4eGZQNnItMnM)** -- Code for the project above<br>
 
-
 Please follow along these videos to complete the sample projects on d3
 
-**[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take this quiz (sign-in to your contest)<br>
+**[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3”: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 **[Presentation](https://docs.google.com/presentation/d/1akxIVqsUClwHgyep2DOViTsabpScGoAbmGF9U7bnPDM/edit?usp=sharing)** -- Slides for d3
 
-## 其他事项
+### Additional Material
+
+### Google Maps Javascript API
+### An official tutorial and project for Google Map API
+**[Official Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** <br>
+**[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** <br>
+### Sample tutorial for Google Map API
+**[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
+
+## 有关IronHacks的其他信息
 ## Additional information about the hack
 
 We will announce the challenge question on May 7th! Until then watch up on our forum in http:// If you have questions send us the questions to opendigital and we will responde as soon as possible.
