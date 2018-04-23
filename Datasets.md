@@ -9,13 +9,17 @@
    [Data.gov](https://www.data.gov) is a repository for federal government information, made available to the public. All of the data is available in machine readable form, so you can easily retrieve data from data.gov using javascript. Data.gov has datasets related to all aspects of government like consumer complaints, international trade, zip-code, hotels, restaurants, etc. You can search your dataset of interest [here](http://catalog.data.gov/dataset).   
 
 
-### Open Indy Data Portal   
+### New York Open Data Portal   
    
-   [Open Indy Data Portal](http://data.indy.gov/) is similar to data.gov, but Open Indy focuses on the City of Indianapolis. The OpenIndy Data Portal contains all data required by Disclose Indy, a plan to promote honesty, integrity, and cost savings in local government. It provides public access to the following information: city or county contracts, ethics filings, campaign finance reports, crime statistics, community resources, budget and spending information, audits, etc.   
+   [Open New York Data Portal](https://data.cityofnewyork.us/) is an opportunity to engage New Yorkers in the information that is produced and used by City government.   
 
 
-### Climate Data Online
+### NYCHA Development Data Book
    
-   [Climate Data Online](https://www.ncdc.noaa.gov/cdo-web) provides statistical data related to various aspects of climate and weather like precipitation, temperature, rainfall and so on. The data is available for various levels of granularity - hourly, daily, monthly. You can read about the API [here](https://www.ncdc.noaa.gov/cdo-web/webservices/v2).
+   [NYCHA Development Data Book](https://data.cityofnewyork.us/Housing-Development/NYCHA-Development-Data-Book/evjd-dqpz) contains the main body of the “Development Data Book” as of January 1, 2016. The Development Data Book lists all of the Authority's Developments alphabetically and includes information on the development identification numbers, program and construction type, number of apartments and rental rooms, population, number of buildings and stories, street boundaries, and political districts.
+   
+### NYC GIS data
+
+   This [Dataset](http://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/nycd/FeatureServer/0/query?where=1=1&outFields=*&outSR=4326&f=geojson) contains the geographical coordinates for the Districs and borougs. 
 
 
