@@ -1,7 +1,7 @@
 # IronHacks开放数据程序设计比赛
 # Purdue IronHacks Spring 2018 Online resources  
 
-欢迎来到普渡网页制作竞赛。我们在这里向你介绍在竞赛中会使用的工具。我们希望您可以在竞赛之前完成这些参考资料。
+欢迎来到IronHacks开放数据编程竞赛。 我们在这里向您介绍将用于游戏的工具。 我们希望您能在比赛前完成这些参考资料。
 
 Welcome to Purdue IronHacks Spring 2018! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts.
 
