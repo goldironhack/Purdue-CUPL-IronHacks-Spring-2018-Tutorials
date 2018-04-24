@@ -1,5 +1,5 @@
-# 普渡大学春季网页设计比赛指南
-# Purdue IronHacks Spring 2018 Tutorials  
+# 普渡大学2018年春季开放数字创新大赛
+# Purdue IronHacks Spring 2018 Online resources  
 
 欢迎来到普渡网页制作竞赛。我们在这里向你介绍在竞赛中会使用的工具。我们希望您可以在竞赛之前完成这些参考资料。
 
@@ -47,14 +47,6 @@ Please follow along these videos to complete the sample projects on HTML & CSS
 
 ## **[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: 
 Quiz “HTML & CSS”: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
- 
-### Social Coding Platform
-
-You are required to submit code to our system using our social coding platform <br>
-
-
-**[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage (not needed for contest but if you are curious)<br>
-**[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git (not needed for contest but if you are curious)
 
 
 ## 指南二
@@ -127,8 +119,8 @@ Quiz “d3”: We strongly recommend that you take this quiz (sign-in to your co
 ### Sample tutorial for Google Map API
 **[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
 
-## 有关IronHacks的其他信息
-## Additional information about the hack
+## 有关IronHacks比赛的其他信息
+## Additional Information about the IronHacks competition
 
 We will announce the challenge question on May 7th! Until then watch up on our forum in http://www.ironhacks.com/ If you have questions send us the questions to opendigital and we will responde as soon as possible.
 
