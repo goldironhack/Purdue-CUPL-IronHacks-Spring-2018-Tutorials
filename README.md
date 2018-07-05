@@ -126,3 +126,5 @@ Quiz “d3”: We strongly recommend that you take this quiz (sign-in to your co
 We will announce the challenge question on May 7th! Until then watch up on our forum in http://www.ironhacks.com/ If you have questions send us the questions to opendigital and we will responde as soon as possible.
 
 <i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
+
+[![DOI](https://zenodo.org/badge/80545027.svg)](https://zenodo.org/badge/latestdoi/80545027)
